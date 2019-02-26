@@ -11,6 +11,6 @@ const Header = () => (
         </div>
         <div>Cart</div>
     </div>
-)
+);
 
 export default Header
